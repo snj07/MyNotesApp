@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#22AACC</color>
+    <color name="colorPrimaryDark">#22AACC</color>
+    <color name="colorAccent">#22AACC</color>
+    <color name="white">#ffffff</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="switchBack">#2b3041</color>
+    <color name="button">#3b4148</color>
+    <color name="background">#22AACC</color>
+
+
+    <color name="colorText">#616161</color>
+    <color name="separator">#bdbdbd</color>
+</resources>
