@@ -29,6 +29,7 @@ public class NoteActivity extends AppCompatActivity {
     private static final String MY_PREFERENCES = "MyPrefs";
     private static final String USER_ID = "uIdKey";
     private SharedPreferences sp;
+
     private int note_id;
 
     @Override
